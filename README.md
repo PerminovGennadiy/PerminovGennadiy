@@ -14,8 +14,10 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub)
 ![MySQL](https://img.shields.io/badge/-MySQL-333?style=for-the-badge)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=PerminovGennadiy)](https://github.com/PerminovGennadiy/github-profile-trophy)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PerminovGennadiy)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Контакты
 [![Telegram](https://img.shields.io/badge/-Telegram-333?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Perminov_Gennadiy)
