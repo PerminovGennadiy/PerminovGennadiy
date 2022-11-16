@@ -15,8 +15,9 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-333?style=for-the-badge)  
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PerminovGennadiy)](https://github.com/PerminovGennadiy/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PerminovGennadiy)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ### Контакты
