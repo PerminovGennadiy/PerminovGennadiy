@@ -16,7 +16,7 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PerminovGennadiy)](https://github.com/PerminovGennadiy/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PerminovGennadiy)](https://git.io/streak-stats)
+<div margin='100'>[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PerminovGennadiy)](https://git.io/streak-stats)</div>
 
 
 
